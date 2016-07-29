@@ -1,0 +1,24 @@
+h1{
+	color:#ff8533;
+	font-family: algerian;
+	text-align: center;
+}
+body{
+	background-color:#ffff00;
+}
+h3{
+	color:#ff8533;
+	text-align: center;
+	font-family: algerian;
+}
+h2{
+	color:#ff8533;
+	text-align:center;
+	font-family: Algerian;
+}
+.img1{
+	display: block;
+	 margin: auto;
+	 width: 200px;
+	 height: 200px;
+}
